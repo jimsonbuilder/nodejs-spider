@@ -1,6 +1,6 @@
 ### nodejs数据抓取程序说明
 
-本程序尝试抓取了http://www.win4000.com/mt/dilireba.html等几个网站的美图，你懂的。
+本程序尝试抓取了 http://www.win4000.com/mt/dilireba.html 等几个网站的美图，你懂的。
 
 #### 运行说明
 
