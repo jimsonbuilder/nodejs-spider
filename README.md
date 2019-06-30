@@ -18,4 +18,4 @@ node app
 
 以下呈上抓取的图片截图：
 
-![](C:\Users\jimson\Desktop\mydatagettor\capture.png)
+![](https://github.com/jimsonbuilder/nodejs-demo/blob/master/capture.png)
